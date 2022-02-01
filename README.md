@@ -1,15 +1,15 @@
-🌱 I’m currently learning **JAVA, SALESFORCE MARKETING CLOUD, AND MORE EMAIL DEVELOPMENT **
+<h3 align="center">👋 Hi there! I'm Colton Rein</h3>
+<p align="center">
+  <a href="https://www.coltonrein.com">Website</a> •
+  <a href="https://www.linkedin.com/in/coltonrein/">LinkedIn</a>
+</p>
 
-👨‍💻 All of my projects are available at https://github.com/ColtonRein
+---
+✨ I'm a frontend engineer and HTML email developer passionate about making the web accessible to everyone and perfecting my email development skills
 
-💬 Ask me about Email Design, Email Campaigns, Landing Pages and Web Development,
+I love reading about the newest front end development trends, and I do that through content on dev.to, slack channels like HTML geeks, and new Youtube videos. When I'm not coding, you can find me geeking about video games participating in different discord communities, or working on my graphic design skills. 
 
-📫 How to reach me colton@coltonrein.com
 
-⚡ Fun fact I have a Shiba Inu named Jaxon 
-
-Connect with me:
-Linkedin 
-
-Languages and Tools:
-bootstrap css3 git html5 laravel mysql php sass
+- 💬 Ask me about: HTML emails, Foundations, CSS, Building a Career In Tech, Content Creation, Graphic Design
+- 📫 How to reach me: [@coltonrein_](https://www.linkedin.com/in/coltonrein/)
+- ⚡ Fun fact: I enjoy cooking and have a Shiba Inu named Jaxon
