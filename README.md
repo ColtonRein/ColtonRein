@@ -1,6 +1,6 @@
 <h3 align="center">👋 Hi there! I'm Colton Rein</h3>
 <p align="center">
-  <a href="https://www.coltonrein.com">Website</a> •
+  <a href="https://www.coltonrein.com" target="blank_">Website</a> •
   <a href="https://www.linkedin.com/in/coltonrein/">LinkedIn</a>
 </p>
 
