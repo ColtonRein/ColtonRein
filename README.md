@@ -12,4 +12,5 @@ I love reading about the newest front end development trends, and I do that thro
 
 - 💬 Ask me about: HTML emails, Foundations, CSS, Building a Career In Tech, Content Creation, Graphic Design
 - 📫 How to reach me on Social Media: [@coltonrein](https://www.linkedin.com/in/coltonrein/)
+- 💻 Check out my portfolio website: [coltonrein.com](https://coltonrein.com/)
 - ⚡ Fun facts: I enjoy cooking and have a Shiba Inu named Jaxon
